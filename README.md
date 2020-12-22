@@ -13,9 +13,5 @@ This app is working and all it need's is the Yelp's Api Key and it will start wo
 
 If you are a student you can or want to test this, you can generate and API Key from Yelp and add it and it will work.
 
-You Can Check Out This App At - https://indraantoor.github.io/FrontEndReactYelpApiApp/ 
-
-Deployed At - https://github.com/indraantoor/FrontEndReactYelpApiApp
-
 Again for this to work you need to add an API Key.
 
