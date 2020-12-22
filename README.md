@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<br />
+![](images/3.png)
 <p align="center">
   <a href="https://github.com/indraantoor/-FrontEndReactYelpApiAppSource">
     <img src="images/3.png" alt="Logo">
