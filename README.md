@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-![1](https://user-images.githubusercontent.com/64259328/102923977-b0731200-44b6-11eb-9b00-345782ea49c4.PNG)
+![3](https://user-images.githubusercontent.com/64259328/102923990-b79a2000-44b6-11eb-9226-3e940133dc6c.PNG)
 <p align="center">
   <a href="https://github.com/indraantoor/-FrontEndReactYelpApiAppSource">
   </a>
@@ -41,7 +41,7 @@
 
 ## About The Project
 
-<center><img src="images/2.png" alt="Logo"></center>
+![2](https://user-images.githubusercontent.com/64259328/102923985-b5d05c80-44b6-11eb-9ac9-a3f67c3afca2.PNG)
 
 A client-side React application, utilizing the Yelp API to search for local businesses.
 
@@ -93,13 +93,8 @@ Type the type of business you are searching for and location and click on Let's 
 
 You can also sort through business by best match (which is the default), highest rated and most reviewed.
 
-<center>
-<img src="images/1.png" alt="Logo">
-<br />
-<br />
-<img src="images/2.png" alt="Logo">
-</center>
-<br />
+![1](https://user-images.githubusercontent.com/64259328/102923977-b0731200-44b6-11eb-9b00-345782ea49c4.PNG)
+![2](https://user-images.githubusercontent.com/64259328/102923985-b5d05c80-44b6-11eb-9ac9-a3f67c3afca2.PNG)
 
 <!-- CONTACT -->
 
