@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
-![](images/3.png)
+![1](https://user-images.githubusercontent.com/64259328/102923977-b0731200-44b6-11eb-9b00-345782ea49c4.PNG)
 <p align="center">
   <a href="https://github.com/indraantoor/-FrontEndReactYelpApiAppSource">
-    <img src="images/3.png" alt="Logo">
   </a>
 
   <h1 align="center">Find A Place</h1>
