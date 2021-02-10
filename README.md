@@ -7,7 +7,7 @@
   <h1 align="center">Find A Place</h1>
 
   <p align="center">
-    Search businesses based on locations you search for. Get listing of all the businesses with picture's, rating and address. Sort through businesses by highest rated and most reviewed. (It was originally named ravenous)
+    Search businesses based on locations you search for. Get listing of all the businesses with picture's, rating and address. Sort through businesses by highest rated and most reviewed. 
     <br />
     <br />
     <a href="https://github.com/indraantoor/-FrontEndReactYelpApiAppSource/issues">Report Bug</a>
@@ -50,6 +50,7 @@ This project was created just created to help myself better understand about Rea
 It uses YELP API, so for this app to fully work you need to add your own API KEY.
 
 Get listing of all the businesses with picture's, rating and address. Sort through businesses by highest rated and most reviewed.
+(It was originally named ravenous)
 
 ### Built With
 
