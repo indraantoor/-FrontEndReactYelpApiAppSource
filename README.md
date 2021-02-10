@@ -7,7 +7,7 @@
   <h1 align="center">Find A Place</h1>
 
   <p align="center">
-    Search businesses based on locations you search for. Get listing of all the businesses with picture's, rating and address. Sort through businesses by highest rated and most reviewed.
+    Search businesses based on locations you search for. Get listing of all the businesses with picture's, rating and address. Sort through businesses by highest rated and most reviewed. (It was originally named ravenous)
     <br />
     <br />
     <a href="https://github.com/indraantoor/-FrontEndReactYelpApiAppSource/issues">Report Bug</a>
