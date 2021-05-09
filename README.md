@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 ![3](https://user-images.githubusercontent.com/64259328/102923990-b79a2000-44b6-11eb-9226-3e940133dc6c.PNG)
 <p align="center">
-  <a href="https://github.com/indraantoor/-FrontEndReactYelpApiAppSource">
+  <a href="https://github.com/indraantoor/Find-A-Place">
   </a>
 
   <h1 align="center">Find A Place</h1>
@@ -10,9 +10,9 @@
     Search businesses based on locations you search for. Get listing of all the businesses with picture's, rating and address. Sort through businesses by highest rated and most reviewed. 
     <br />
     <br />
-    <a href="https://github.com/indraantoor/-FrontEndReactYelpApiAppSource/issues">Report Bug</a>
+    <a href="https://github.com/indraantoor/Find-A-Place/issues">Report Bug</a>
     ·
-    <a href="https://github.com/indraantoor/-FrontEndReactYelpApiAppSource/issues">Suggest A Feature</a>
+    <a href="https://github.com/indraantoor/Find-A-Place/issues">Suggest A Feature</a>
   </p>
 </p>
 
@@ -79,7 +79,7 @@ Things you need to use the software and how to install them.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/indraantoor/-FrontEndReactYelpApiAppSource.git
+   git clone https://github.com/indraantoor/Find-A-Place.git
    ```
 2. Install NPM packages
    ```sh
