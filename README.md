@@ -99,5 +99,10 @@ You can also sort through business by best match (which is the default), highest
 
 <!-- CONTACT -->
 
+## Contact
+
 Project Link: [https://github.com/indraantoor/-FrontEndReactYelpApiAppSource](https://github.com/indraantoor/-FrontEndReactYelpApiAppSource)
+
+<a href="https://in.linkedin.com/in/indraantoor"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" /></a>
+
 
